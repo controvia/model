@@ -1,7 +1,7 @@
 import { isoly } from "isoly"
 import { isly } from "isly"
 
-export type Label = Partial<Record<isoly.Language, string>>
+export type Label = Partial<Record<isoly.Language, string | undefined>>
 export namespace Label {
 	export const { type, is, flawed } = isly
 		.record<Label>(isoly.Language.type, isly.string())
