@@ -16363,16 +16363,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field B10",
-            "sv": "Fält B10",
+            "en": "Block B - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block B - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.B10",
+          "name": "vat.B",
+        },
+        {
+          "label": {
+            "en": "Field 10 - Output VAT 25%",
+            "sv": "Fält 10 - Utgående moms 25%",
+          },
+          "name": "vat.B.10",
         },
       ],
     },
@@ -16419,16 +16426,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field B10",
-            "sv": "Fält B10",
+            "en": "Block B - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block B - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.B10",
+          "name": "vat.B",
+        },
+        {
+          "label": {
+            "en": "Field 10 - Output VAT 25%",
+            "sv": "Fält 10 - Utgående moms 25%",
+          },
+          "name": "vat.B.10",
         },
       ],
     },
@@ -16475,16 +16489,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field B10",
-            "sv": "Fält B10",
+            "en": "Block B - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block B - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.B10",
+          "name": "vat.B",
+        },
+        {
+          "label": {
+            "en": "Field 10 - Output VAT 25%",
+            "sv": "Fält 10 - Utgående moms 25%",
+          },
+          "name": "vat.B.10",
         },
       ],
     },
@@ -16531,16 +16552,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field B10",
-            "sv": "Fält B10",
+            "en": "Block B - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block B - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.B10",
+          "name": "vat.B",
+        },
+        {
+          "label": {
+            "en": "Field 10 - Output VAT 25%",
+            "sv": "Fält 10 - Utgående moms 25%",
+          },
+          "name": "vat.B.10",
         },
       ],
     },
@@ -16587,16 +16615,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field D30",
-            "sv": "Fält D30",
+            "en": "Block D - Output VAT on purchases in fields 20-24",
+            "sv": "Block D - Utgående moms på inköp i fält 20-24",
           },
-          "name": "vat.D30",
+          "name": "vat.D",
+        },
+        {
+          "label": {
+            "en": "Field 30 - Output VAT 25%",
+            "sv": "Fält 30 - Utgående moms 25 %",
+          },
+          "name": "vat.D.30",
         },
       ],
     },
@@ -16643,16 +16678,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field I60",
-            "sv": "Fält I60",
+            "en": "Block I - Output VAT on imports in field 50",
+            "sv": "Block I - Utgående moms på import i fält 50",
           },
-          "name": "vat.I60",
+          "name": "vat.I",
+        },
+        {
+          "label": {
+            "en": "Output VAT 25%",
+            "sv": "Utgående moms 25%",
+          },
+          "name": "vat.I.60",
         },
       ],
     },
@@ -16699,16 +16741,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field B10",
-            "sv": "Fält B10",
+            "en": "Block B - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block B - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.B10",
+          "name": "vat.B",
+        },
+        {
+          "label": {
+            "en": "Field 10 - Output VAT 25%",
+            "sv": "Fält 10 - Utgående moms 25%",
+          },
+          "name": "vat.B.10",
         },
       ],
     },
@@ -16795,16 +16844,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field B11",
-            "sv": "Fält B11",
+            "en": "Block B - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block B - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.B11",
+          "name": "vat.B",
+        },
+        {
+          "label": {
+            "en": "Field 11 - Output VAT 12%",
+            "sv": "Fält 11 - Utgående moms 12%",
+          },
+          "name": "vat.B.11",
         },
       ],
     },
@@ -16851,16 +16907,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field B11",
-            "sv": "Fält B11",
+            "en": "Block B - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block B - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.B11",
+          "name": "vat.B",
+        },
+        {
+          "label": {
+            "en": "Field 11 - Output VAT 12%",
+            "sv": "Fält 11 - Utgående moms 12%",
+          },
+          "name": "vat.B.11",
         },
       ],
     },
@@ -16907,16 +16970,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field B11",
-            "sv": "Fält B11",
+            "en": "Block B - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block B - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.B11",
+          "name": "vat.B",
+        },
+        {
+          "label": {
+            "en": "Field 11 - Output VAT 12%",
+            "sv": "Fält 11 - Utgående moms 12%",
+          },
+          "name": "vat.B.11",
         },
       ],
     },
@@ -16963,16 +17033,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field B11",
-            "sv": "Fält B11",
+            "en": "Block B - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block B - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.B11",
+          "name": "vat.B",
+        },
+        {
+          "label": {
+            "en": "Field 11 - Output VAT 12%",
+            "sv": "Fält 11 - Utgående moms 12%",
+          },
+          "name": "vat.B.11",
         },
       ],
     },
@@ -17019,16 +17096,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field D31",
-            "sv": "Fält D31",
+            "en": "Block D - Output VAT on purchases in fields 20-24",
+            "sv": "Block D - Utgående moms på inköp i fält 20-24",
           },
-          "name": "vat.D31",
+          "name": "vat.D",
+        },
+        {
+          "label": {
+            "en": "Field 31 - Output VAT 12%",
+            "sv": "Fält 31 - Utgående moms 12 %",
+          },
+          "name": "vat.D.31",
         },
       ],
     },
@@ -17075,16 +17159,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field I61",
-            "sv": "Fält I61",
+            "en": "Block I - Output VAT on imports in field 50",
+            "sv": "Block I - Utgående moms på import i fält 50",
           },
-          "name": "vat.I61",
+          "name": "vat.I",
+        },
+        {
+          "label": {
+            "en": "Output VAT 12%",
+            "sv": "Utgående moms 12%",
+          },
+          "name": "vat.I.61",
         },
       ],
     },
@@ -17131,16 +17222,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field B11",
-            "sv": "Fält B11",
+            "en": "Block B - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block B - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.B11",
+          "name": "vat.B",
+        },
+        {
+          "label": {
+            "en": "Field 11 - Output VAT 12%",
+            "sv": "Fält 11 - Utgående moms 12%",
+          },
+          "name": "vat.B.11",
         },
       ],
     },
@@ -17227,16 +17325,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field B12",
-            "sv": "Fält B12",
+            "en": "Block B - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block B - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.B12",
+          "name": "vat.B",
+        },
+        {
+          "label": {
+            "en": "Field 12 - Output VAT 6%",
+            "sv": "Fält 12 - Utgående moms 6%",
+          },
+          "name": "vat.B.12",
         },
       ],
     },
@@ -17283,16 +17388,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field B12",
-            "sv": "Fält B12",
+            "en": "Block B - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block B - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.B12",
+          "name": "vat.B",
+        },
+        {
+          "label": {
+            "en": "Field 12 - Output VAT 6%",
+            "sv": "Fält 12 - Utgående moms 6%",
+          },
+          "name": "vat.B.12",
         },
       ],
     },
@@ -17339,16 +17451,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field B12",
-            "sv": "Fält B12",
+            "en": "Block B - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block B - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.B12",
+          "name": "vat.B",
+        },
+        {
+          "label": {
+            "en": "Field 12 - Output VAT 6%",
+            "sv": "Fält 12 - Utgående moms 6%",
+          },
+          "name": "vat.B.12",
         },
       ],
     },
@@ -17395,16 +17514,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field B12",
-            "sv": "Fält B12",
+            "en": "Block B - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block B - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.B12",
+          "name": "vat.B",
+        },
+        {
+          "label": {
+            "en": "Field 12 - Output VAT 6%",
+            "sv": "Fält 12 - Utgående moms 6%",
+          },
+          "name": "vat.B.12",
         },
       ],
     },
@@ -17451,16 +17577,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field D32",
-            "sv": "Fält D32",
+            "en": "Block D - Output VAT on purchases in fields 20-24",
+            "sv": "Block D - Utgående moms på inköp i fält 20-24",
           },
-          "name": "vat.D32",
+          "name": "vat.D",
+        },
+        {
+          "label": {
+            "en": "Field 32 - Output VAT 6%",
+            "sv": "Fält 32 - Utgående moms 6 %",
+          },
+          "name": "vat.D.32",
         },
       ],
     },
@@ -17507,16 +17640,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field I62",
-            "sv": "Fält I62",
+            "en": "Block I - Output VAT on imports in field 50",
+            "sv": "Block I - Utgående moms på import i fält 50",
           },
-          "name": "vat.I62",
+          "name": "vat.I",
+        },
+        {
+          "label": {
+            "en": "Output VAT 6%",
+            "sv": "Utgående moms 6%",
+          },
+          "name": "vat.I.62",
         },
       ],
     },
@@ -17563,16 +17703,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field B12",
-            "sv": "Fält B12",
+            "en": "Block B - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block B - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.B12",
+          "name": "vat.B",
+        },
+        {
+          "label": {
+            "en": "Field 12 - Output VAT 6%",
+            "sv": "Fält 12 - Utgående moms 6%",
+          },
+          "name": "vat.B.12",
         },
       ],
     },
@@ -17659,16 +17806,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field F48",
-            "sv": "Fält F48",
+            "en": "Input VAT",
+            "sv": "Ingående moms",
           },
-          "name": "vat.F48",
+          "name": "vat.F",
+        },
+        {
+          "label": {
+            "en": "Field 48 - Input VAT to deduct",
+            "sv": "Fält 48 - Ingående moms att dra av",
+          },
+          "name": "vat.F.48",
         },
       ],
     },
@@ -17715,16 +17869,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field F48",
-            "sv": "Fält F48",
+            "en": "Input VAT",
+            "sv": "Ingående moms",
           },
-          "name": "vat.F48",
+          "name": "vat.F",
+        },
+        {
+          "label": {
+            "en": "Field 48 - Input VAT to deduct",
+            "sv": "Fält 48 - Ingående moms att dra av",
+          },
+          "name": "vat.F.48",
         },
       ],
     },
@@ -17771,16 +17932,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field F48",
-            "sv": "Fält F48",
+            "en": "Input VAT",
+            "sv": "Ingående moms",
           },
-          "name": "vat.F48",
+          "name": "vat.F",
+        },
+        {
+          "label": {
+            "en": "Field 48 - Input VAT to deduct",
+            "sv": "Fält 48 - Ingående moms att dra av",
+          },
+          "name": "vat.F.48",
         },
       ],
     },
@@ -17827,16 +17995,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field F48",
-            "sv": "Fält F48",
+            "en": "Input VAT",
+            "sv": "Ingående moms",
           },
-          "name": "vat.F48",
+          "name": "vat.F",
+        },
+        {
+          "label": {
+            "en": "Field 48 - Input VAT to deduct",
+            "sv": "Fält 48 - Ingående moms att dra av",
+          },
+          "name": "vat.F.48",
         },
       ],
     },
@@ -17883,16 +18058,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field F48",
-            "sv": "Fält F48",
+            "en": "Input VAT",
+            "sv": "Ingående moms",
           },
-          "name": "vat.F48",
+          "name": "vat.F",
+        },
+        {
+          "label": {
+            "en": "Field 48 - Input VAT to deduct",
+            "sv": "Fält 48 - Ingående moms att dra av",
+          },
+          "name": "vat.F.48",
         },
       ],
     },
@@ -17939,16 +18121,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field F48",
-            "sv": "Fält F48",
+            "en": "Input VAT",
+            "sv": "Ingående moms",
           },
-          "name": "vat.F48",
+          "name": "vat.F",
+        },
+        {
+          "label": {
+            "en": "Field 48 - Input VAT to deduct",
+            "sv": "Fält 48 - Ingående moms att dra av",
+          },
+          "name": "vat.F.48",
         },
       ],
     },
@@ -18035,16 +18224,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field F48",
-            "sv": "Fält F48",
+            "en": "Input VAT",
+            "sv": "Ingående moms",
           },
-          "name": "vat.F48",
+          "name": "vat.F",
+        },
+        {
+          "label": {
+            "en": "Field 48 - Input VAT to deduct",
+            "sv": "Fält 48 - Ingående moms att dra av",
+          },
+          "name": "vat.F.48",
         },
       ],
     },
@@ -21211,16 +21407,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field A05",
-            "sv": "Fält A05",
+            "en": "Block A - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block A - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.A05",
+          "name": "vat.A",
+        },
+        {
+          "label": {
+            "en": "Field 05 - Taxable sales not included in fields 06, 07, or 08",
+            "sv": "Fält 05 - Momspliktig försäljning som inte ingår i ruta 06, 07 eller 08",
+          },
+          "name": "vat.A.05",
         },
       ],
     },
@@ -21267,16 +21470,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field A05",
-            "sv": "Fält A05",
+            "en": "Block A - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block A - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.A05",
+          "name": "vat.A",
+        },
+        {
+          "label": {
+            "en": "Field 05 - Taxable sales not included in fields 06, 07, or 08",
+            "sv": "Fält 05 - Momspliktig försäljning som inte ingår i ruta 06, 07 eller 08",
+          },
+          "name": "vat.A.05",
         },
       ],
     },
@@ -21323,16 +21533,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field A05",
-            "sv": "Fält A05",
+            "en": "Block A - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block A - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.A05",
+          "name": "vat.A",
+        },
+        {
+          "label": {
+            "en": "Field 05 - Taxable sales not included in fields 06, 07, or 08",
+            "sv": "Fält 05 - Momspliktig försäljning som inte ingår i ruta 06, 07 eller 08",
+          },
+          "name": "vat.A.05",
         },
       ],
     },
@@ -21379,16 +21596,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field A05",
-            "sv": "Fält A05",
+            "en": "Block A - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block A - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.A05",
+          "name": "vat.A",
+        },
+        {
+          "label": {
+            "en": "Field 05 - Taxable sales not included in fields 06, 07, or 08",
+            "sv": "Fält 05 - Momspliktig försäljning som inte ingår i ruta 06, 07 eller 08",
+          },
+          "name": "vat.A.05",
         },
       ],
     },
@@ -21435,16 +21659,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E42",
-            "sv": "Fält E42",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E42",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 42 - Other sales and transactions",
+            "sv": "Fält 42 - Övrig försäljning med mera",
+          },
+          "name": "vat.E.42",
         },
       ],
     },
@@ -21531,16 +21762,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E36",
-            "sv": "Fält E36",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E36",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 36 - Sales of goods outside the EU",
+            "sv": "Fält 36 - Försäljning av varor utanför EU",
+          },
+          "name": "vat.E.36",
         },
       ],
     },
@@ -21587,16 +21825,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field A05",
-            "sv": "Fält A05",
+            "en": "Block A - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block A - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.A05",
+          "name": "vat.A",
+        },
+        {
+          "label": {
+            "en": "Field 05 - Taxable sales not included in fields 06, 07, or 08",
+            "sv": "Fält 05 - Momspliktig försäljning som inte ingår i ruta 06, 07 eller 08",
+          },
+          "name": "vat.A.05",
         },
       ],
     },
@@ -21643,16 +21888,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E35",
-            "sv": "Fält E35",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E35",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 35 - Sales of goods to another EU country",
+            "sv": "Fält 35 - Försäljning av varor till ett annat EU-land",
+          },
+          "name": "vat.E.35",
         },
       ],
     },
@@ -21699,16 +21951,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field A07",
-            "sv": "Fält A07",
+            "en": "Block A - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block A - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.A07",
+          "name": "vat.A",
+        },
+        {
+          "label": {
+            "en": "Field 07 - Tax base for margin taxation",
+            "sv": "Fält 07 - Beskattningsunderlag vid vinstmarginalbeskattning",
+          },
+          "name": "vat.A.07",
         },
       ],
     },
@@ -21755,16 +22014,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field A07",
-            "sv": "Fält A07",
+            "en": "Block A - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block A - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.A07",
+          "name": "vat.A",
+        },
+        {
+          "label": {
+            "en": "Field 07 - Tax base for margin taxation",
+            "sv": "Fält 07 - Beskattningsunderlag vid vinstmarginalbeskattning",
+          },
+          "name": "vat.A.07",
         },
       ],
     },
@@ -21851,16 +22117,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E41",
-            "sv": "Fält E41",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E41",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 41 - Sales where the buyer is liable for VAT in Sweden",
+            "sv": "Fält 41 - Försäljning när köparen är skatteskyldig i Sverige",
+          },
+          "name": "vat.E.41",
         },
       ],
     },
@@ -21947,16 +22220,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E40",
-            "sv": "Fält E40",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E40",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 40 - Other sales of services supplied outside Sweden",
+            "sv": "Fält 40 - Övriga försäljning av av tjänster omsatta utanför Sverige",
+          },
+          "name": "vat.E.40",
         },
       ],
     },
@@ -22003,16 +22283,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E39",
-            "sv": "Fält E39",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E39",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 39 - Sales of services to businesses in another EU country under the main rule",
+            "sv": "Fält 39 - Försäljning av tjänster till näringsidkare i annat EU-land enligt huvudregeln",
+          },
+          "name": "vat.E.39",
         },
       ],
     },
@@ -22099,16 +22386,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field A06",
-            "sv": "Fält A06",
+            "en": "Block A - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block A - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.A06",
+          "name": "vat.A",
+        },
+        {
+          "label": {
+            "en": "Field 06 - Taxable withdrawals",
+            "sv": "Fält 06 - Mompliktiga uttag",
+          },
+          "name": "vat.A.06",
         },
       ],
     },
@@ -22155,16 +22449,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field A06",
-            "sv": "Fält A06",
+            "en": "Block A - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block A - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.A06",
+          "name": "vat.A",
+        },
+        {
+          "label": {
+            "en": "Field 06 - Taxable withdrawals",
+            "sv": "Fält 06 - Mompliktiga uttag",
+          },
+          "name": "vat.A.06",
         },
       ],
     },
@@ -22211,16 +22512,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field A06",
-            "sv": "Fält A06",
+            "en": "Block A - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block A - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.A06",
+          "name": "vat.A",
+        },
+        {
+          "label": {
+            "en": "Field 06 - Taxable withdrawals",
+            "sv": "Fält 06 - Mompliktiga uttag",
+          },
+          "name": "vat.A.06",
         },
       ],
     },
@@ -22267,16 +22575,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E42",
-            "sv": "Fält E42",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E42",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 42 - Other sales and transactions",
+            "sv": "Fält 42 - Övrig försäljning med mera",
+          },
+          "name": "vat.E.42",
         },
       ],
     },
@@ -23683,16 +23998,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field A05",
-            "sv": "Fält A05",
+            "en": "Block A - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block A - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.A05",
+          "name": "vat.A",
+        },
+        {
+          "label": {
+            "en": "Field 05 - Taxable sales not included in fields 06, 07, or 08",
+            "sv": "Fält 05 - Momspliktig försäljning som inte ingår i ruta 06, 07 eller 08",
+          },
+          "name": "vat.A.05",
         },
       ],
     },
@@ -23739,16 +24061,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field A05",
-            "sv": "Fält A05",
+            "en": "Block A - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block A - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.A05",
+          "name": "vat.A",
+        },
+        {
+          "label": {
+            "en": "Field 05 - Taxable sales not included in fields 06, 07, or 08",
+            "sv": "Fält 05 - Momspliktig försäljning som inte ingår i ruta 06, 07 eller 08",
+          },
+          "name": "vat.A.05",
         },
       ],
     },
@@ -23795,16 +24124,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field A05",
-            "sv": "Fält A05",
+            "en": "Block A - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block A - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.A05",
+          "name": "vat.A",
+        },
+        {
+          "label": {
+            "en": "Field 05 - Taxable sales not included in fields 06, 07, or 08",
+            "sv": "Fält 05 - Momspliktig försäljning som inte ingår i ruta 06, 07 eller 08",
+          },
+          "name": "vat.A.05",
         },
       ],
     },
@@ -24251,16 +24587,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E42",
-            "sv": "Fält E42",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E42",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 42 - Other sales and transactions",
+            "sv": "Fält 42 - Övrig försäljning med mera",
+          },
+          "name": "vat.E.42",
         },
       ],
     },
@@ -24307,16 +24650,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E42",
-            "sv": "Fält E42",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E42",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 42 - Other sales and transactions",
+            "sv": "Fält 42 - Övrig försäljning med mera",
+          },
+          "name": "vat.E.42",
         },
       ],
     },
@@ -24363,16 +24713,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E42",
-            "sv": "Fält E42",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E42",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 42 - Other sales and transactions",
+            "sv": "Fält 42 - Övrig försäljning med mera",
+          },
+          "name": "vat.E.42",
         },
       ],
     },
@@ -24419,16 +24776,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field A08",
-            "sv": "Fält A08",
+            "en": "Block A - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block A - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.A08",
+          "name": "vat.A",
+        },
+        {
+          "label": {
+            "en": "Field 08 - Rental income under voluntary tax liability",
+            "sv": "Fält 08 - Hyresinkomster vid frivillig skattskyldighet",
+          },
+          "name": "vat.A.08",
         },
       ],
     },
@@ -24475,16 +24839,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field A08",
-            "sv": "Fält A08",
+            "en": "Block A - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block A - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.A08",
+          "name": "vat.A",
+        },
+        {
+          "label": {
+            "en": "Field 08 - Rental income under voluntary tax liability",
+            "sv": "Fält 08 - Hyresinkomster vid frivillig skattskyldighet",
+          },
+          "name": "vat.A.08",
         },
       ],
     },
@@ -24531,16 +24902,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field A05",
-            "sv": "Fält A05",
+            "en": "Block A - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block A - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.A05",
+          "name": "vat.A",
+        },
+        {
+          "label": {
+            "en": "Field 05 - Taxable sales not included in fields 06, 07, or 08",
+            "sv": "Fält 05 - Momspliktig försäljning som inte ingår i ruta 06, 07 eller 08",
+          },
+          "name": "vat.A.05",
         },
       ],
     },
@@ -24587,16 +24965,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field A05",
-            "sv": "Fält A05",
+            "en": "Block A - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block A - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.A05",
+          "name": "vat.A",
+        },
+        {
+          "label": {
+            "en": "Field 05 - Taxable sales not included in fields 06, 07, or 08",
+            "sv": "Fält 05 - Momspliktig försäljning som inte ingår i ruta 06, 07 eller 08",
+          },
+          "name": "vat.A.05",
         },
       ],
     },
@@ -24643,16 +25028,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field A05",
-            "sv": "Fält A05",
+            "en": "Block A - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block A - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.A05",
+          "name": "vat.A",
+        },
+        {
+          "label": {
+            "en": "Field 05 - Taxable sales not included in fields 06, 07, or 08",
+            "sv": "Fält 05 - Momspliktig försäljning som inte ingår i ruta 06, 07 eller 08",
+          },
+          "name": "vat.A.05",
         },
       ],
     },
@@ -24699,16 +25091,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field A05",
-            "sv": "Fält A05",
+            "en": "Block A - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block A - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.A05",
+          "name": "vat.A",
+        },
+        {
+          "label": {
+            "en": "Field 05 - Taxable sales not included in fields 06, 07, or 08",
+            "sv": "Fält 05 - Momspliktig försäljning som inte ingår i ruta 06, 07 eller 08",
+          },
+          "name": "vat.A.05",
         },
       ],
     },
@@ -24795,16 +25194,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field A05",
-            "sv": "Fält A05",
+            "en": "Block A - Taxable sales or withdrawals excluding VAT",
+            "sv": "Block A - Momspliktig försäljning eller uttag exklusive moms",
           },
-          "name": "vat.A05",
+          "name": "vat.A",
+        },
+        {
+          "label": {
+            "en": "Field 05 - Taxable sales not included in fields 06, 07, or 08",
+            "sv": "Fält 05 - Momspliktig försäljning som inte ingår i ruta 06, 07 eller 08",
+          },
+          "name": "vat.A.05",
         },
       ],
     },
@@ -25051,16 +25457,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E42",
-            "sv": "Fält E42",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E42",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 42 - Other sales and transactions",
+            "sv": "Fält 42 - Övrig försäljning med mera",
+          },
+          "name": "vat.E.42",
         },
       ],
     },
@@ -25107,16 +25520,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E42",
-            "sv": "Fält E42",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E42",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 42 - Other sales and transactions",
+            "sv": "Fält 42 - Övrig försäljning med mera",
+          },
+          "name": "vat.E.42",
         },
       ],
     },
@@ -25163,16 +25583,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E42",
-            "sv": "Fält E42",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E42",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 42 - Other sales and transactions",
+            "sv": "Fält 42 - Övrig försäljning med mera",
+          },
+          "name": "vat.E.42",
         },
       ],
     },
@@ -25219,16 +25646,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E42",
-            "sv": "Fält E42",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E42",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 42 - Other sales and transactions",
+            "sv": "Fält 42 - Övrig försäljning med mera",
+          },
+          "name": "vat.E.42",
         },
       ],
     },
@@ -25275,16 +25709,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E42",
-            "sv": "Fält E42",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E42",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 42 - Other sales and transactions",
+            "sv": "Fält 42 - Övrig försäljning med mera",
+          },
+          "name": "vat.E.42",
         },
       ],
     },
@@ -25331,16 +25772,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E42",
-            "sv": "Fält E42",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E42",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 42 - Other sales and transactions",
+            "sv": "Fält 42 - Övrig försäljning med mera",
+          },
+          "name": "vat.E.42",
         },
       ],
     },
@@ -25387,16 +25835,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E42",
-            "sv": "Fält E42",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E42",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 42 - Other sales and transactions",
+            "sv": "Fält 42 - Övrig försäljning med mera",
+          },
+          "name": "vat.E.42",
         },
       ],
     },
@@ -25443,16 +25898,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E42",
-            "sv": "Fält E42",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E42",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 42 - Other sales and transactions",
+            "sv": "Fält 42 - Övrig försäljning med mera",
+          },
+          "name": "vat.E.42",
         },
       ],
     },
@@ -25499,16 +25961,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E42",
-            "sv": "Fält E42",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E42",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 42 - Other sales and transactions",
+            "sv": "Fält 42 - Övrig försäljning med mera",
+          },
+          "name": "vat.E.42",
         },
       ],
     },
@@ -25555,16 +26024,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E42",
-            "sv": "Fält E42",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E42",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 42 - Other sales and transactions",
+            "sv": "Fält 42 - Övrig försäljning med mera",
+          },
+          "name": "vat.E.42",
         },
       ],
     },
@@ -25611,16 +26087,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E42",
-            "sv": "Fält E42",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E42",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 42 - Other sales and transactions",
+            "sv": "Fält 42 - Övrig försäljning med mera",
+          },
+          "name": "vat.E.42",
         },
       ],
     },
@@ -25667,16 +26150,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E42",
-            "sv": "Fält E42",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E42",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 42 - Other sales and transactions",
+            "sv": "Fält 42 - Övrig försäljning med mera",
+          },
+          "name": "vat.E.42",
         },
       ],
     },
@@ -25723,16 +26213,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E42",
-            "sv": "Fält E42",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E42",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 42 - Other sales and transactions",
+            "sv": "Fält 42 - Övrig försäljning med mera",
+          },
+          "name": "vat.E.42",
         },
       ],
     },
@@ -25779,16 +26276,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E42",
-            "sv": "Fält E42",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E42",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 42 - Other sales and transactions",
+            "sv": "Fält 42 - Övrig försäljning med mera",
+          },
+          "name": "vat.E.42",
         },
       ],
     },
@@ -25835,16 +26339,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E42",
-            "sv": "Fält E42",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E42",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 42 - Other sales and transactions",
+            "sv": "Fält 42 - Övrig försäljning med mera",
+          },
+          "name": "vat.E.42",
         },
       ],
     },
@@ -25891,16 +26402,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field E42",
-            "sv": "Fält E42",
+            "en": "Block E - Sales and other transactions exempt from VAT",
+            "sv": "Block E - Försäljning med mera som är undantagen från moms",
           },
-          "name": "vat.E42",
+          "name": "vat.E",
+        },
+        {
+          "label": {
+            "en": "Field 42 - Other sales and transactions",
+            "sv": "Fält 42 - Övrig försäljning med mera",
+          },
+          "name": "vat.E.42",
         },
       ],
     },
@@ -26147,16 +26665,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field C23",
-            "sv": "Fält C23",
+            "en": "Taxable purchases under reverse charge",
+            "sv": "Momspliktiga inköp vid omvänd betalningsskyldighet",
           },
-          "name": "vat.C23",
+          "name": "vat.C",
+        },
+        {
+          "label": {
+            "en": "Field 23 - Purchases of goods in Sweden where the buyer is liable for VAT",
+            "sv": "Fält 23 - Inköp av varor i Sverige som köparen är betalningsskyldig för",
+          },
+          "name": "vat.C.23",
         },
       ],
     },
@@ -26203,16 +26728,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field C23",
-            "sv": "Fält C23",
+            "en": "Taxable purchases under reverse charge",
+            "sv": "Momspliktiga inköp vid omvänd betalningsskyldighet",
           },
-          "name": "vat.C23",
+          "name": "vat.C",
+        },
+        {
+          "label": {
+            "en": "Field 23 - Purchases of goods in Sweden where the buyer is liable for VAT",
+            "sv": "Fält 23 - Inköp av varor i Sverige som köparen är betalningsskyldig för",
+          },
+          "name": "vat.C.23",
         },
       ],
     },
@@ -26259,16 +26791,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field C23",
-            "sv": "Fält C23",
+            "en": "Taxable purchases under reverse charge",
+            "sv": "Momspliktiga inköp vid omvänd betalningsskyldighet",
           },
-          "name": "vat.C23",
+          "name": "vat.C",
+        },
+        {
+          "label": {
+            "en": "Field 23 - Purchases of goods in Sweden where the buyer is liable for VAT",
+            "sv": "Fält 23 - Inköp av varor i Sverige som köparen är betalningsskyldig för",
+          },
+          "name": "vat.C.23",
         },
       ],
     },
@@ -26315,16 +26854,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field C24",
-            "sv": "Fält C24",
+            "en": "Taxable purchases under reverse charge",
+            "sv": "Momspliktiga inköp vid omvänd betalningsskyldighet",
           },
-          "name": "vat.C24",
+          "name": "vat.C",
+        },
+        {
+          "label": {
+            "en": "Field 24 - Other purchases of services in Sweden where the buyer is liable for VAT",
+            "sv": "Fält 24 - Övriga inköp av tjänster i Sverige som köparen är betalningsskyldig för",
+          },
+          "name": "vat.C.24",
         },
       ],
     },
@@ -26371,16 +26917,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field C24",
-            "sv": "Fält C24",
+            "en": "Taxable purchases under reverse charge",
+            "sv": "Momspliktiga inköp vid omvänd betalningsskyldighet",
           },
-          "name": "vat.C24",
+          "name": "vat.C",
+        },
+        {
+          "label": {
+            "en": "Field 24 - Other purchases of services in Sweden where the buyer is liable for VAT",
+            "sv": "Fält 24 - Övriga inköp av tjänster i Sverige som köparen är betalningsskyldig för",
+          },
+          "name": "vat.C.24",
         },
       ],
     },
@@ -26427,16 +26980,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field C24",
-            "sv": "Fält C24",
+            "en": "Taxable purchases under reverse charge",
+            "sv": "Momspliktiga inköp vid omvänd betalningsskyldighet",
           },
-          "name": "vat.C24",
+          "name": "vat.C",
+        },
+        {
+          "label": {
+            "en": "Field 24 - Other purchases of services in Sweden where the buyer is liable for VAT",
+            "sv": "Fält 24 - Övriga inköp av tjänster i Sverige som köparen är betalningsskyldig för",
+          },
+          "name": "vat.C.24",
         },
       ],
     },
@@ -26523,16 +27083,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field C20",
-            "sv": "Fält C20",
+            "en": "Taxable purchases under reverse charge",
+            "sv": "Momspliktiga inköp vid omvänd betalningsskyldighet",
           },
-          "name": "vat.C20",
+          "name": "vat.C",
+        },
+        {
+          "label": {
+            "en": "Field 20 - Purchases of goods from another EU country",
+            "sv": "Fält 20 - Inköp av varor från annat EU-land",
+          },
+          "name": "vat.C.20",
         },
       ],
     },
@@ -26579,16 +27146,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field C20",
-            "sv": "Fält C20",
+            "en": "Taxable purchases under reverse charge",
+            "sv": "Momspliktiga inköp vid omvänd betalningsskyldighet",
           },
-          "name": "vat.C20",
+          "name": "vat.C",
+        },
+        {
+          "label": {
+            "en": "Field 20 - Purchases of goods from another EU country",
+            "sv": "Fält 20 - Inköp av varor från annat EU-land",
+          },
+          "name": "vat.C.20",
         },
       ],
     },
@@ -26635,16 +27209,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field C20",
-            "sv": "Fält C20",
+            "en": "Taxable purchases under reverse charge",
+            "sv": "Momspliktiga inköp vid omvänd betalningsskyldighet",
           },
-          "name": "vat.C20",
+          "name": "vat.C",
+        },
+        {
+          "label": {
+            "en": "Field 20 - Purchases of goods from another EU country",
+            "sv": "Fält 20 - Inköp av varor från annat EU-land",
+          },
+          "name": "vat.C.20",
         },
       ],
     },
@@ -26731,16 +27312,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field C22",
-            "sv": "Fält C22",
+            "en": "Taxable purchases under reverse charge",
+            "sv": "Momspliktiga inköp vid omvänd betalningsskyldighet",
           },
-          "name": "vat.C22",
+          "name": "vat.C",
+        },
+        {
+          "label": {
+            "en": "Field 22 - Purchases of services from countries outside the EU",
+            "sv": "Fält 22 - Inköp av tjänster från länder utanför EU",
+          },
+          "name": "vat.C.22",
         },
       ],
     },
@@ -26787,16 +27375,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field C22",
-            "sv": "Fält C22",
+            "en": "Taxable purchases under reverse charge",
+            "sv": "Momspliktiga inköp vid omvänd betalningsskyldighet",
           },
-          "name": "vat.C22",
+          "name": "vat.C",
+        },
+        {
+          "label": {
+            "en": "Field 22 - Purchases of services from countries outside the EU",
+            "sv": "Fält 22 - Inköp av tjänster från länder utanför EU",
+          },
+          "name": "vat.C.22",
         },
       ],
     },
@@ -26843,16 +27438,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field C22",
-            "sv": "Fält C22",
+            "en": "Taxable purchases under reverse charge",
+            "sv": "Momspliktiga inköp vid omvänd betalningsskyldighet",
           },
-          "name": "vat.C22",
+          "name": "vat.C",
+        },
+        {
+          "label": {
+            "en": "Field 22 - Purchases of services from countries outside the EU",
+            "sv": "Fält 22 - Inköp av tjänster från länder utanför EU",
+          },
+          "name": "vat.C.22",
         },
       ],
     },
@@ -26899,16 +27501,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field C21",
-            "sv": "Fält C21",
+            "en": "Taxable purchases under reverse charge",
+            "sv": "Momspliktiga inköp vid omvänd betalningsskyldighet",
           },
-          "name": "vat.C21",
+          "name": "vat.C",
+        },
+        {
+          "label": {
+            "en": "Field 21 - Purchases of services from another EU country, under the main rule",
+            "sv": "Fält 21 - Inköp av tjänster från ett annat EU-land, enligt huvudregeln",
+          },
+          "name": "vat.C.21",
         },
       ],
     },
@@ -26955,16 +27564,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field C21",
-            "sv": "Fält C21",
+            "en": "Taxable purchases under reverse charge",
+            "sv": "Momspliktiga inköp vid omvänd betalningsskyldighet",
           },
-          "name": "vat.C21",
+          "name": "vat.C",
+        },
+        {
+          "label": {
+            "en": "Field 21 - Purchases of services from another EU country, under the main rule",
+            "sv": "Fält 21 - Inköp av tjänster från ett annat EU-land, enligt huvudregeln",
+          },
+          "name": "vat.C.21",
         },
       ],
     },
@@ -27011,16 +27627,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field C21",
-            "sv": "Fält C21",
+            "en": "Taxable purchases under reverse charge",
+            "sv": "Momspliktiga inköp vid omvänd betalningsskyldighet",
           },
-          "name": "vat.C21",
+          "name": "vat.C",
+        },
+        {
+          "label": {
+            "en": "Field 21 - Purchases of services from another EU country, under the main rule",
+            "sv": "Fält 21 - Inköp av tjänster från ett annat EU-land, enligt huvudregeln",
+          },
+          "name": "vat.C.21",
         },
       ],
     },
@@ -27107,16 +27730,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field H50",
-            "sv": "Fält H50",
+            "en": "Block H - VAT on imports",
+            "sv": "Block H - moms vid import",
           },
-          "name": "vat.H50",
+          "name": "vat.H",
+        },
+        {
+          "label": {
+            "en": "Tax base on imports",
+            "sv": "Beskattningsunderlag vid import",
+          },
+          "name": "vat.H.50",
         },
       ],
     },
@@ -27163,16 +27793,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field H50",
-            "sv": "Fält H50",
+            "en": "Block H - VAT on imports",
+            "sv": "Block H - moms vid import",
           },
-          "name": "vat.H50",
+          "name": "vat.H",
+        },
+        {
+          "label": {
+            "en": "Tax base on imports",
+            "sv": "Beskattningsunderlag vid import",
+          },
+          "name": "vat.H.50",
         },
       ],
     },
@@ -27219,16 +27856,23 @@ exports[`controvia.Charts > getAccounts 1`] = `
         {
           "label": {
             "en": "VAT Report",
-            "sv": "Moms",
+            "sv": "Momsdeklaration",
           },
           "name": "vat",
         },
         {
           "label": {
-            "en": "Field H50",
-            "sv": "Fält H50",
+            "en": "Block H - VAT on imports",
+            "sv": "Block H - moms vid import",
           },
-          "name": "vat.H50",
+          "name": "vat.H",
+        },
+        {
+          "label": {
+            "en": "Tax base on imports",
+            "sv": "Beskattningsunderlag vid import",
+          },
+          "name": "vat.H.50",
         },
       ],
     },
