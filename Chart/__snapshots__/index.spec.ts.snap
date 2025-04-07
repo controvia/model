@@ -16691,8 +16691,8 @@ exports[`controvia.Charts > getAccounts 1`] = `
         },
         {
           "label": {
-            "en": "Output VAT 25%",
-            "sv": "Utgående moms 25%",
+            "en": "Field 60 - Output VAT 25%",
+            "sv": "Fält 60 - Utgående moms 25%",
           },
           "name": "vat.I.60",
         },
@@ -17172,8 +17172,8 @@ exports[`controvia.Charts > getAccounts 1`] = `
         },
         {
           "label": {
-            "en": "Output VAT 12%",
-            "sv": "Utgående moms 12%",
+            "en": "Field 61 - Output VAT 12%",
+            "sv": "Fält 61 - Utgående moms 12%",
           },
           "name": "vat.I.61",
         },
@@ -17653,8 +17653,8 @@ exports[`controvia.Charts > getAccounts 1`] = `
         },
         {
           "label": {
-            "en": "Output VAT 6%",
-            "sv": "Utgående moms 6%",
+            "en": "Field 62 - Output VAT 6%",
+            "sv": "Fält 62 - Utgående moms 6%",
           },
           "name": "vat.I.62",
         },
@@ -17812,8 +17812,8 @@ exports[`controvia.Charts > getAccounts 1`] = `
         },
         {
           "label": {
-            "en": "Input VAT",
-            "sv": "Ingående moms",
+            "en": "Block F - Input VAT",
+            "sv": "Block F - Ingående moms",
           },
           "name": "vat.F",
         },
@@ -17875,8 +17875,8 @@ exports[`controvia.Charts > getAccounts 1`] = `
         },
         {
           "label": {
-            "en": "Input VAT",
-            "sv": "Ingående moms",
+            "en": "Block F - Input VAT",
+            "sv": "Block F - Ingående moms",
           },
           "name": "vat.F",
         },
@@ -17938,8 +17938,8 @@ exports[`controvia.Charts > getAccounts 1`] = `
         },
         {
           "label": {
-            "en": "Input VAT",
-            "sv": "Ingående moms",
+            "en": "Block F - Input VAT",
+            "sv": "Block F - Ingående moms",
           },
           "name": "vat.F",
         },
@@ -18001,8 +18001,8 @@ exports[`controvia.Charts > getAccounts 1`] = `
         },
         {
           "label": {
-            "en": "Input VAT",
-            "sv": "Ingående moms",
+            "en": "Block F - Input VAT",
+            "sv": "Block F - Ingående moms",
           },
           "name": "vat.F",
         },
@@ -18064,8 +18064,8 @@ exports[`controvia.Charts > getAccounts 1`] = `
         },
         {
           "label": {
-            "en": "Input VAT",
-            "sv": "Ingående moms",
+            "en": "Block F - Input VAT",
+            "sv": "Block F - Ingående moms",
           },
           "name": "vat.F",
         },
@@ -18127,8 +18127,8 @@ exports[`controvia.Charts > getAccounts 1`] = `
         },
         {
           "label": {
-            "en": "Input VAT",
-            "sv": "Ingående moms",
+            "en": "Block F - Input VAT",
+            "sv": "Block F - Ingående moms",
           },
           "name": "vat.F",
         },
@@ -18230,8 +18230,8 @@ exports[`controvia.Charts > getAccounts 1`] = `
         },
         {
           "label": {
-            "en": "Input VAT",
-            "sv": "Ingående moms",
+            "en": "Block F - Input VAT",
+            "sv": "Block F - Ingående moms",
           },
           "name": "vat.F",
         },
@@ -27743,8 +27743,8 @@ exports[`controvia.Charts > getAccounts 1`] = `
         },
         {
           "label": {
-            "en": "Tax base on imports",
-            "sv": "Beskattningsunderlag vid import",
+            "en": "Field 50 - Tax base on imports",
+            "sv": "Fält 50 -Beskattningsunderlag vid import",
           },
           "name": "vat.H.50",
         },
@@ -27806,8 +27806,8 @@ exports[`controvia.Charts > getAccounts 1`] = `
         },
         {
           "label": {
-            "en": "Tax base on imports",
-            "sv": "Beskattningsunderlag vid import",
+            "en": "Field 50 - Tax base on imports",
+            "sv": "Fält 50 -Beskattningsunderlag vid import",
           },
           "name": "vat.H.50",
         },
@@ -27869,8 +27869,8 @@ exports[`controvia.Charts > getAccounts 1`] = `
         },
         {
           "label": {
-            "en": "Tax base on imports",
-            "sv": "Beskattningsunderlag vid import",
+            "en": "Field 50 - Tax base on imports",
+            "sv": "Fält 50 -Beskattningsunderlag vid import",
           },
           "name": "vat.H.50",
         },
