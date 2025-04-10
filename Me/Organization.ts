@@ -1,6 +1,6 @@
 import { cryptly } from "cryptly"
 import { isly } from "isly"
-import { User } from "User"
+import { User } from "../User"
 
 export interface Organization {
 	id: cryptly.Identifier4
