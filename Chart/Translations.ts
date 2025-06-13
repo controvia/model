@@ -11,6 +11,12 @@ export namespace Translations {
 			{},
 			{
 				get: (target, property) => (!isoly.Language.is(property) ? undefined : (target[property] ??= load(property))),
+				has: (target, property) => isoly.Language.is(property) && property in target && target[property] != undefined,
+				ownKeys: () => Object.keys(isoly.Language),
+				getOwnPropertyDescriptor: () => ({
+					enumerable: true,
+					configurable: true,
+				}),
 			}
 		)
 	}
@@ -18,6 +24,8 @@ export namespace Translations {
 		return new Proxy<Label>(overrides ?? {}, {
 			get: (target, property) =>
 				!isoly.Language.is(property) ? undefined : (target[property] ??= translations[property]?.[name]),
+			has: (target, property) =>
+				isoly.Language.is(property) && property in target && translations[property]?.[name] != undefined,
 			ownKeys: () => Object.keys(translations),
 			getOwnPropertyDescriptor: () => ({
 				enumerable: true,

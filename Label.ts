@@ -12,6 +12,14 @@ export namespace Label {
 			get(target: Label, key: string): string | undefined {
 				return key in target ? target[key as keyof Label] : defaults?.[key as keyof Label]
 			},
+			has(target: Label, key: string): boolean {
+				return key in target || (defaults ? key in defaults : false)
+			},
+			ownKeys: () => Object.keys(label ?? {}).concat(Object.keys(defaults ?? {})),
+			getOwnPropertyDescriptor: () => ({
+				enumerable: true,
+				configurable: true,
+			}),
 		})
 	}
 }
